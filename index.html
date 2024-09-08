@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>LazyAnime</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <!-- Main Title -->
+    <h1>Watch Anime Online</h1>
+
+    <!-- Navbar -->
+    <nav class="navbar">
+      <!-- LazyAnime branding -->
+      <h2>LazyAnime</h2>
+      <ul>
+        <li><a class="active" href="#home">Homepage</a></li>
+        <li><a href="#categories">Categories</a></li>
+        <li><a href="#myblog">My Blog</a></li>
+        <li><a href="#contacts">Contacts</a></li>
+      </ul>
+      <div>
+        <input type="text" id="search-input" placeholder="Search..." />
+        <button>Sign In</button>
+        <button>Log In</button>
+      </div>
+    </nav>
+
+    <!-- Trending Anime Section -->
+    <div>
+      <section id="anime-list">
+        <h3>Trending Anime</h3>
+        <div id="anime-container"></div>
+      </section>
+    </div>
+    <div id="loader"></div> <!-- Loader for loading animation -->
+
+
+    <script type="module" src="main.js"></script>
+  </body>
+</html>
