@@ -2,7 +2,6 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning  frontend web development
 - 💞️ I’m looking to collaborate on  some projects
-- 📫 How to reach me 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: it takes 10000 to master a skill
 
