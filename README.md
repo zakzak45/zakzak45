@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on a portfolio website<br>👯 I’m looking to collaborate on a full stack website<br>🤝 I’m looking for help with implementing machine learning on it<br>🌱 I’m currently learning machine learning<br>💬 Ask me about python and programming<br>⚡ Fun fact knowing more languages means you cool
+🔭 I’m khunjuliwe mdakane an aspiring web developer 
+Currently working on an E-commerce website<br>👯 I’m looking to collaborate on any project that is cool<br>🤝 <br>🌱 I’m currently learning machine learning<br>💬 Ask me about python and programming<br>⚡ Fun fact im a cool dude 
 
 
 ## 🌐 Socials:
