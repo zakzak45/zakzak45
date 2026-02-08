@@ -2,7 +2,7 @@
 🔭 Currently building and strengthening my development skills  
 👯 Open to collaborating on interesting software or AI-related projects  
 🤝 Looking to learn how to design and build large-scale full-stack applications that integrate AI  
-🌱 Currently learning authentication and authorization with Express.js  
+🌱 Currently building practical experience  
 💬 Ask me about software development, ML basics, or problem solving  
 ⚡ Fun fact: I’m easy to work with and enjoy team environments
 
