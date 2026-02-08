@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently building my skills <br>👯 I’m looking to collaborate on any project <br>🤝 I’m looking for help in makking large fullstackApps that intergrate AI<br>🌱 I’m currently learning authentication and authorization using expressjs<br>💬 Ask me about anything related to software development ⚡ Fun fact im very nice to be around 
+🔭 Currently building and strengthening my development skills  
+👯 Open to collaborating on interesting software or AI-related projects  
+🤝 Looking to learn how to design and build large-scale full-stack applications that integrate AI  
+🌱 Currently learning authentication and authorization with Express.js  
+💬 Ask me about software development, ML basics, or problem solving  
+⚡ Fun fact: I’m easy to work with and enjoy team environments
+
 
 
 ## 🌐 Socials:
